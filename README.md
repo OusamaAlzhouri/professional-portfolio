@@ -1,6 +1,6 @@
 # Ousama Alzhouri - Portfolio Website
 
-This is the personal portfolio website of Ousama Alzhouri, showcasing skills, projects, and contact information. The website is built using HTML, CSS, and a touch of JavaScript, with a focus on creating a clean and user-friendly interface.
+This is the personal portfolio website of Ousama Alzhouri, showcasing skills, projects, and contact information. The website is built using HTML, CSS with a focus on creating a clean and user-friendly interface.
 
 ## Features
 
